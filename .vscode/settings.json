@@ -1,0 +1,13 @@
+{
+    "git.ignoreLimitWarning": true,
+    "clangd.arguments": [
+        "--fallback-style=none"
+    ],
+    "editor.formatOnSave": false,
+    "[c]": {
+        "editor.defaultFormatter": null
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": null
+    },
+}
